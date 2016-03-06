@@ -6,6 +6,7 @@ It's calculates the optimal allocation usage a value limit, for example 10.000.
 
 ## Prerequisites
 
++ JDK
 + JRE
 
 ## Usage
